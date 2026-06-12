@@ -1,0 +1,15 @@
+# Datos generados (se reproducen con el script)
+data/*.csv
+
+# Salidas de modelos
+*.xlsx
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
+
+# Sistema
+.DS_Store
